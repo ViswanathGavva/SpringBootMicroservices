@@ -1,7 +1,7 @@
 # SpringBootMicroservices
 This Repo has modules for Spring boot micro services using 
-Spring boot
-Feign(rest client)
-Eureka(service registry)
-Zuul(api gateway)
-Oauth2
+1) Spring boot
+2) Feign(rest client)
+3) Eureka(service registry)
+4) Zuul(api gateway)
+5) Oauth2
